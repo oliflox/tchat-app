@@ -1,11 +1,11 @@
 {
   "name": "oliflox-chat-app",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "C'est tout comme facebook mais c'est péter",
   "main": "src/server.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oliflox/tchat-app.git"
+    "url": "git+https://github.com/oliflox/tchat-app.git/"
   },
   "scripts": {
     "start": "NODE_OPTIONS=\"--experimental-specifier-resolution=node --loader ts-node/esm\" node --watch src/server.ts",
