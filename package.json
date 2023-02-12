@@ -1,5 +1,5 @@
 {
-  "name": "@ofloflox/oliflox-tchat-application",
+  "name": "oliflox-chat-app",
   "version": "1.2.0",
   "description": "C'est tout comme facebook mais c'est péter",
   "main": "src/server.ts",
